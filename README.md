@@ -21,7 +21,7 @@
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shivamprajapati844505/airbnb-clone.git
+   git clone https://github.com/Shivamprajapati844505/Airbnb-clone.git
    cd airbnb-clone
    ```
 2. Install dependencies:
